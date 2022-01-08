@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEC585943D298887EF00fa48103408fF89B31daDe",
+  "SCAN_LINK": "https://etherscan.io/address/0xec585943d298887ef00fa48103408ff89b31dade",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Inventor Club NFT",
+  "SYMBOL": "IC",
+  "MAX_SUPPLY": 9000,
+  "WEI_COST": 66000000000000000,
+  "DISPLAY_COST": 0.066,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/troglodyte-society-v2",
+  "SHOW_BACKGROUND": true
+}
